@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MCpracticesforskills
 - 👀 I’m interested in professional and technical writing
 - 🌱 I’m currently learning how to use JavaScript and more advanced css and html
-- 💞️ I’m looking to collaborate on professional porojects including energy efficiency projects
+- 💞️ I’m looking to get hired as a technical writer at a software or construction company
 - 📫 How to hire me for professional copyediting and copywriting inquiries... just email morgan@finmay.com
 
 <!---
