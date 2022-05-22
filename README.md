@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MCpracticesforskills
-- 👀 I’m interested in professional and technical writing (and a bit of poetry 😉 )
-- 🌱 I’m currently learning how to use JavaScript and more advanced css and html
-- 💞️ I’m looking to get hired as a Technical Writer at a software or construction company
-- 📫 How to hire me for professional copyediting and copywriting inquiries... just email morgan@finmay.com
+- 💞️ I currently work as a Technical Writer at Apex Systems contracting for Apple 🍎
+- 👀 I’m interested in technical writing & UX/UI writing
+- 🌱 I’m currently learning how to use JavaScript 
+- 📫 Professional inquiries: email morganventures22@gmail.com 
 
 <!---
 MCpracticesforskills/MCpracticesforskills is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
