@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MCpracticesforskills
-- 💞️ I currently work as a Technical Writer at Apex Systems contracting for Apple 🍎
+- 💞️ I currently work as a Technical Writer
 - 👀 I’m interested in technical writing & UX/UI writing
 - 🌱 I’m currently learning how to use JavaScript 
 - 📫 Professional inquiries: email morganventures22@gmail.com 
